@@ -35,10 +35,13 @@ This repository contains a complete pipeline for preprocessing microscopy images
 - Plotting data.
 - Creating comparative plots for different data sets.
 
-
-
-
 ### Prerequisites
 
 - Python 3.7 or higher
 - YOLOv5 repository
+
+### Folder Structure
+- Acquisition
+- TiffLayers
+- Focused
+- Cropped
