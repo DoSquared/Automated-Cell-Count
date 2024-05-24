@@ -38,7 +38,7 @@ This repository contains a complete pipeline for preprocessing microscopy images
 ### Prerequisites
 
 - Python 3.7 or higher
-- YOLOv5 repository
+- YOLOv5 source codes
 
 ### Folder Structure
 - Acquisition
