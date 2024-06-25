@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a complete pipeline for preprocessing microscopy images acquired from a Neubauer chamber and utilizing the YOLO (You Only Look Once) object detection algorithm for the detection and classification of cells. The primary goal of this project is to automate the preprocessing of these images and employ YOLO to accurately identify and classify different types of cells.
+This repository contains a complete pipeline for preprocessing microscopy images acquired from a Neubauer chamber and utilizing the YOLO (You Only Look Once) object detection algorithm for the detection and classification of cells. The primary goal of this project is to automate the preprocessing of these images and employ YOLO to accurately identify and classify different types of cells. For any inquiries or further information, please feel free to reach out to us at jan.hansmann@isc.fraunhofer.de.
 
 ## Repository Structure
 
