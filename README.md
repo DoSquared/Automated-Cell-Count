@@ -1,4 +1,4 @@
-# PAutomated Cell Detection and Classification in Neubauer Chamber Microscopy Images
+# Automated Cell Detection and Classification in Neubauer Chamber Microscopy Images
 
 ## Overview
 
