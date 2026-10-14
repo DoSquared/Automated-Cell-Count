@@ -1,4 +1,4 @@
-# Preprocessing and YOLO Inference for Cell Detection and Classification in Neubauer Chamber Microscopy Images
+# PAutomated Cell Detection and Classification in Neubauer Chamber Microscopy Images
 
 ## Overview
 
